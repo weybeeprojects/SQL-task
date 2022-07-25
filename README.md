@@ -1,4 +1,4 @@
-# SQL-tutorial
+# SQL TASK
 
 You are given a table, Projects, containing three columns: Task_ID, Start_Date and End_Date. It is guaranteed that the difference between the End_Date and the Start_Date is equal to 1 day for each row in the table.
 
